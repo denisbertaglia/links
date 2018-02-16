@@ -1,6 +1,7 @@
 # links
 Links
 http://voerro.com/blog/developing-and-distributing-laravel-5.5-packages
+
 http://voerro.com/blog/laravel-5.5-package-development-pt.2
 
 Try this:

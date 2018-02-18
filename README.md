@@ -13,3 +13,5 @@ https://stackoverflow.com/questions/30191330/laravel-5-how-to-access-image-uploa
 https://laracasts.com/discuss/channels/general-discussion/protect-all-files-in-a-directory-user-auth
 
 https://ysk-override.com/Multi-Auth-in-laravel-54-Registration-20170202/
+
+https://loiane.training/cursos/

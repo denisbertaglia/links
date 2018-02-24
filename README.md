@@ -17,3 +17,5 @@ https://ysk-override.com/Multi-Auth-in-laravel-54-Registration-20170202/
 https://loiane.training/cursos/
 
 https://github.com/alura-cursos/javascript-avancado-iii
+
+https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-windows#5

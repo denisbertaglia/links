@@ -19,3 +19,5 @@ https://loiane.training/cursos/
 https://github.com/alura-cursos/javascript-avancado-iii
 
 https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-windows#5
+
+https://www.dell.com/support/article/us/en/19/sln301754/how-to-install-ubuntu-and-windows-8-or-10-as-a-dual-boot-on-your-dell-pc?lang=en

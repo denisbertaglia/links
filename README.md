@@ -21,3 +21,7 @@ https://github.com/alura-cursos/javascript-avancado-iii
 https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-windows#5
 
 https://www.dell.com/support/article/us/en/19/sln301754/how-to-install-ubuntu-and-windows-8-or-10-as-a-dual-boot-on-your-dell-pc?lang=en
+
+https://leanpub.com/laravel-pt-br
+
+https://pt.stackoverflow.com/questions/3080/melhores-formas-de-utilizar-inje%C3%A7%C3%A3o-de-depend%C3%AAncia-no-laravel

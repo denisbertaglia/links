@@ -25,3 +25,5 @@ https://www.dell.com/support/article/us/en/19/sln301754/how-to-install-ubuntu-an
 https://leanpub.com/laravel-pt-br
 
 https://pt.stackoverflow.com/questions/3080/melhores-formas-de-utilizar-inje%C3%A7%C3%A3o-de-depend%C3%AAncia-no-laravel
+
+https://canaltech.com.br/software/Blinde-sua-aplicacao-web-PHP-com-estas-15-dicas-de-seguranca/

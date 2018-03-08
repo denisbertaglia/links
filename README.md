@@ -27,3 +27,5 @@ https://leanpub.com/laravel-pt-br
 https://pt.stackoverflow.com/questions/3080/melhores-formas-de-utilizar-inje%C3%A7%C3%A3o-de-depend%C3%AAncia-no-laravel
 
 https://canaltech.com.br/software/Blinde-sua-aplicacao-web-PHP-com-estas-15-dicas-de-seguranca/
+
+https://www.sitepoint.com/build-php-framework-symfony-components/

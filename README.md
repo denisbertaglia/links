@@ -29,3 +29,5 @@ https://pt.stackoverflow.com/questions/3080/melhores-formas-de-utilizar-inje%C3%
 https://canaltech.com.br/software/Blinde-sua-aplicacao-web-PHP-com-estas-15-dicas-de-seguranca/
 
 https://www.sitepoint.com/build-php-framework-symfony-components/
+
+ https://github.com/picqer/php-barcode-generator

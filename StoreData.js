@@ -20,6 +20,10 @@ class StoreData {
     raw(valor) {
         return  localStorage.setItem(this._indice,valor);
     }
+    rawRemove() {
+        localStorage.removeItem(this._indice);
+    }
+
     insert(data) {
         this._data.push(data);
         this._storage();
@@ -46,6 +50,7 @@ class StoreData {
         }
         this._data = dataArr;
         this._storage();
+
     }
     deleteById(id) {
         let dataArr = this._data;
@@ -56,7 +61,7 @@ class StoreData {
     deleteAll() {
         this._data =  new Array();
         this._json = '{}';
-        localStorage.setItem(this._indice,'');
+        this.rawRemove();
     }
 
     get data() {
@@ -73,13 +78,13 @@ class StoreData {
 
         for (var i = dataArr.length - 1; i >= 0; i--) {
             if(dataArr[i]==data){
-             return true;
-         }
-     }
-     return false
- }
+               return true;
+           }
+       }
+       return false
+   }
 
- get dataToComma() {
+   get dataToComma() {
     let dataArr = this._data, data = '';
 
     for (var i = dataArr.length - 1; i >= 0; i--) {
@@ -92,7 +97,7 @@ class StoreData {
 }
 
 get _raw() {
-   return  localStorage.getItem(this._indice);
+ return  localStorage.getItem(this._indice);
 }
 isJson(str) {
     try { JSON.parse(str); } catch (e) { return false; }

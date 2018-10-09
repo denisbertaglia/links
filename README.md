@@ -31,3 +31,5 @@ https://canaltech.com.br/software/Blinde-sua-aplicacao-web-PHP-com-estas-15-dica
 https://www.sitepoint.com/build-php-framework-symfony-components/
 
  https://github.com/picqer/php-barcode-generator
+
+https://medium.com/@f.h.ferreira/criando-packages-com-migrations-no-laravel-5-aa0a1922f365
